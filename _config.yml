@@ -16,9 +16,7 @@
 title: The Impractical Engineer
 avatar: images/_20160616_141914.JPG
 email: fabianspublicemail@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Fabian Trauzettel. I'm a Biomedical engineer working in research, and this is where I post work, side projects and whatever else I feel like. You will never find a more wretched hive of scum and miscellany.
-  
+description: I'm Fabian Trauzettel, a Biomedical engineer working on my MEngSc. Lover of all things technical, maker of things, passionate 3D printing nerd, gamer, and general multipurpose geek.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theimpractical.engineer" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
