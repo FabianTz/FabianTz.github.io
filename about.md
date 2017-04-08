@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float:left; margin-right: 10px" src="/images/avatar.JPG" width="200px" >
+<img style="float:left; margin-right: 10px" src="/assets/avatar.JPG" width="200px" >
 
 My name is Fabian Trauzettel. Ever since I was a kid I loved to play with Lego, take things apart, and make stuff in the garage with my old man. 
 
