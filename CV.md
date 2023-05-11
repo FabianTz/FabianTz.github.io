@@ -102,6 +102,8 @@ Electromagnetic instrument tracking in the hybrid OR
 
 C. Culmone, F. S. Yikilmaz, **F. Trauzettel** and P. Breedveld, "**Follow-The-Leader Mechanisms in Medical Devices: A Review on Scientific and Patent Literature,**" in *IEEE Reviews in Biomedical Engineering*, vol. 16, pp. 439-455 (2023). [doi.org/10.1109/RBME.2021.3113395]()
   
+J. Bloemberg, F. Trauzettel, B. Coolen, D. Dodou, P. Breedveld, "**Design and evaluation of an MRI-ready, self-propelled needle for prostate interventions.**" in *PLOS ONE*, vol 17(9) (2022). [doi.org/10.1371/journal.pone.0274063]()
+  
 S. Kanaji, R. Watanabe, P. Mascagni, **F. Trauzettel**, T. Urade, F. Longo, L. Guerriero, S. Perretta, B. Dallemagne, Y. Kakeji, and J. Marescaux, "**Three-dimensional imaging improved the laparoscopic performance of inexperienced operators: a prospective trial.**" in *Surgical Endoscopy*, vol. 34, pp. 5083–5091 (2020). [doi.org/10.1007/s00464-019-07308-6]()
   
 S. Hinds, H.A. Jaeger, R. Burke, B. O'Sullivan, J. Keane, **F. Trauzettel**, B. Marques, S. Cotin, B. Bird, H.O. Leira, E.F. Hofstad, O.V. Solberg, T. Langø, and P. Cantillon-Murphy, **"An open electromagnetic tracking framework applied to targeted liver tumour ablation."** in *Int J Comput Assist Radiol Surg.*, vol. 14, pp. 1475-1484 (2019). [doi.org/10.1007/s11548-019-01983-5]()
