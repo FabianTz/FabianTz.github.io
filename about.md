@@ -1,33 +1,113 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Curriculum Vitae
+permalink: /curriculumVitae/
 ---
 
-<img style="float:left; margin-right: 10px" src="/assets/avatar.JPG" width="200px" >
+<img src="/assets/avatar.JPG" width="200px" >
 
-My name is Fabian Trauzettel. Ever since I was a kid I loved to play with Lego, take things apart, and make stuff in the garage with my old man. 
+# Education
+**PhD in BioMechanical Engineering**  
+TU Delft - *Delft, The Netherlands*  
+KU Leuven - *Leuven, Belgium*  
+Sept. 2019 ‑ ca. Jan. 2024   
+  
+Thesis title: *Development of ultra‑thin multi‑steerable catheter technology suited for soft‑robotic navigation through complex vascular structures*   
+ESR 1 in the [ATLAS‑ITN consortium](https://atlas-itn.eu/project/esrs-description/)  
 
-When I was 16, Dad decided that my [transition year](https://en.wikipedia.org/wiki/Transition_Year) should be used to do internships and have a look at what I might want to do in the future. Because of my German background, going abroad for internships wasn't an issue and I ended up doing work placements in Airbus' and Daimler's plants in Bremen, as well as three weeks at Dräger in Lübeck. My time at Dräger was far more important to me than I realised at the time. Even though I was only doing production testing work, and shadowing my mentor around the place, I was hooked.
+My research has two main goals: 
+1. To combine soft‑robotic actuation with advanced steering technology inspired by clever design principles from nature (octopus, wasp) to develop novel  ultrathin multi‑steerable catheters for navigation through complex lumens.
+2. To include knowledge on human depth perception and eye‑hand coordination, to optimize HMIs to allow intuitive control over the  multi‑steerable catheters designs from 3D control actions and 2D CT/MRI images.
+  
+**MEngSc in Mechanical Engineering (by research)**  
+University College Cork - *Cork, Ireland*  
+INSA & IHU Strasbourg - *Strasbourg, France*  
+Jun. 2016 ‑ Oct. 2018  
+  
+Thesis title: [*Design and Development of a Catheter Actuation System*](/assets/Thesis.pdf)  
+I built and tested a manual actuation handle for a steerable electromagnetically‑guided bronchoscopy catheter, starting from a custom kinematic model of the relationship between steering tendon displacement and catheter tip pose.
 
-That experience inevitably led me down the path to common-entry engineering in [CIT](http://www.cit.ie/). Actually, biomedical engineering was my first choice, but after struggling with mathematics in my leaving cert and only getting a D1 at higher level, I couldn't enter the course directly. Nevertheless, 19-year-old me decided that, to put it in Corkonian terms, "This'll be graaaaaaand, sure. No hassle, like."
 
-Wrong.
 
-I failed Mathematics 102 and Thermofluids. 
+**BEng in Biomedical Engineering**  
+Cork Institute of Technology - *Cork, Ireland*  
+Sept. 2011 ‑ Jun. 2016   
+  
+Completed my BEng in Biomedical Engineering with First‑Class Honours
+  
+Final year project: [3D printing soft PVC](/assets/Trauzettel_Fabian_FYP2016.pdf) ‑ I successfully adapted my existing FDM 3D printer to print with a liquid PVC plastisol, allowing the 3D printing of soft (approx. Shore 20A) materials.  
 
-I failed them again in my repeat exams that summer.
+**Leaving Certificate**  
+Bandon Grammar School - *Bandon, Ireland*  
+Sept. 2005 ‑ Sept. 2011  
 
-Lesson learned: Going to lectures but doing nothing but playing Minecraft in the evenings doesn't work. Go figure.
+Graduated from secondary school with a leaving certificate of 455 (out of a max. 600) points  
 
-That particular lesson was painful both emotionally and financially, and finally kicked me in my juvenile ass enough to get myself together. Seeing as I had passed ten out of twelve modules, I strictly only had to retake the two failed courses. However, I figured only six hours of lectures a week was likely to make me go insane out of boredom. So I took extra modules, the electives I hadn't chosen in my first attempt at first year. That allowed me to connect to my new classmates (after all, almost everyone else in my initial class had passed the year). I have to admit, without Will and Adam, I would've probably given up. Will, like me, messed up his first year and had to repeat. We were classmates and already fast friends before disaster struck, and being stuck in the same situation only served to forge it into a true bromance. Speaking of which, Adam joined us as a roommate at the start of our repeat year, at the tender age of 17. He was a total counterpoint to where Will and I found ourselves. He was (and is) something of an enigma to us. Words like "self-doubt" or "can't" simply don't exist in his mind. He is the very model of a doer, and much prefers to ask forgiveness over permission.
 
-This dubious triumvirate just so happened to be a magical combination. Adam provided the energy, Will kept us grounded to reality, and I provided the memes. We were unstoppable.
+# Experience
 
-With the repeat year in the bag with first-class honours, we could finally move on up. There were many laughs, all-nighters, near misses, deadlines, exams and more along the way, but somehow we pulled through together.
+**TU Delft** - *Delft, The Netherlands*  
+PhD Candidate *Since Sep. 2019*   
+Research into the design of thin, multi‑steerable catheter technology suited for soft‑robotic navigation through complex vascular structures.
 
-In third year, I went to complete my college-mandated work placement at Teleflex, in their plant in Kernen, just outside Stuttgart. It was an enormously rewarding experience - I enjoyed the work, it was a gloriously hot summer, new friends were made, and many beers were had. I won't lie - I got pretty emotional saying goodbye to that place. 
+**MAAS Ltd.** - *Ballincollig, Ireland*  
+Design Engineer *Jan. 2019 ‑ Aug. 2019*  
+Part‑time product design work including the design of enabling devices for pediatric patients with cerebral palsy, and custom CNC machine tools for laser engraving and marking.
 
-But things move on, and I'm now working towards my Master's degree, this time via [University College Cork](http://www.ucc.ie/en/), although I'm working on my project while abroad, at [IHU Strasbourg](http://www.ihu-strasbourg.eu/ihu/). It's enormously fun, and frustrating at the same time - things don't always work quite the way you want them to.
+**Dept. of Physics, University College Cork** - *Cork, Ireland*  
+Technical Officer *Jan. 2019 ‑ Aug. 2019*  
+Design and prototype manufacturing for physics research, public education outreach, preparation of lecture demonstration materials, assisting the setup and teaching of physics labs, maintenance of cryogenic, vacuum, and optical equipment.
+  
+**IHU Strasbourg** - *Strasbourg, France*  
+Biomedical Engineering Fellow *Jul. 2017 ‑ Dec. 2018*  
+Design and prototype manufacturing for various innovation and research projects involving: surgical training and evaluation, Hyperspectral imaging and augmented reality, endoscopic assistance tools, high pressure fluid dissector / injectors, choledocoscopy and organ simulation for interventional endoscopy training, and many other minor prototyping jobs, as well as mentoring of undergraduate interns.
+  
+**IHU Strasbourg** - *Strasbourg, France*  
+Biomedical Engineering Intern *Aug. 2016 ‑ Jul. 2017*  
+A year ‑ long internship at IHU Strasbourg during which I worked on my master's research on steerable catheters, while also mentoring undergraduate interns and collaborating with surgeons on projects such as resuscitative balloon occlusion of the aorta (REBOA).
+  
+**Teleflex Medical Ltd. / Willy Rüsch GmbH** - *Kernen, Germany*  
+Laboratory / QA Intern *Mar. 2015 ‑ Aug. 2015*  
+*Regulatory Affairs:* Maintenance of technical files and updating of device risk analyses with post market surveillance data  
+*Notified body audit preparation:* Planning and executing device testing after real‑time and simulated aging to support technical documentation  
+*Product performance:* Testing compliance of medical devices with their relevant standards, use of ANSI tables for sample size determination, sample acquisition, testing protocol preparation, testing and formulation of reports  
+*Lab duties:* day‑to‑day testing of raw materials and finished goods, incoming goods inspections
 
-So here's the soppy punch line of this enormously long and boring wall of text. Shit happens. Things don't go as you hope or expect. Find people you can depend on - friends and family make everything better just by being there, and building good relationships with your mentors and talking to them about what you'd like to do is the key to finding interesting opportunities in your career. 
+# Hobbies
+
+Programming (python, C++, Visual Basic), Cooking, 3D printing & additive manufacturing (particularly my customized Prusa i3 mk3s), CNC, Arduino, product design, electronics, hill walking, surfing, sailing, cycling
+
+# Honours & Awards
+**Winning Team Coach** 2017 BEST innovation on‑site course, Strasbourg, France  
+**Winning Team Member** 2016 BEST innovation on‑site course, Strasbourg, France  
+
+# Conference Presentations
+**11th Conference on New Technologies for Computer/Robot Assisted Surgery (CRAS)** - *Napoli, Italy*  - April 2022   
+Co-author, Extended Abstract and Prototype Demonstration  
+Proof‑of‑Concept Medical Robotic Platform for Endovascular Catheterization
+  
+**29th Conference of the international Society for Medical Innovation and Technology (iSMIT)** - *Torino, Italy* - November 2017  
+Presented work undertaken as part of my master's project  
+O103: Mechanical catheter navigation with electromagnetic tracking to peripheral airway targets
+  
+**Surgetica 2017** - *Strasbourg, France* - November 2017  
+Presented work undertaken as part of my master's project  
+O98: Autonomous Balloon Management for Endovascular Occlusion  
+
+**29th Conference of the international Society for Medical Innovation and Technology (iSMIT)** - *Torino, Italy* - November 2017  
+90-second teaser presentation  
+Electromagnetic instrument tracking in the hybrid OR  
+
+# Journal Publications
+
+C. Culmone, F. S. Yikilmaz, **F. Trauzettel** and P. Breedveld, "**Follow-The-Leader Mechanisms in Medical Devices: A Review on Scientific and Patent Literature,**" in *IEEE Reviews in Biomedical Engineering*, vol. 16, pp. 439-455 (2023). [doi.org/10.1109/RBME.2021.3113395]()
+  
+S. Kanaji, R. Watanabe, P. Mascagni, **F. Trauzettel**, T. Urade, F. Longo, L. Guerriero, S. Perretta, B. Dallemagne, Y. Kakeji, and J. Marescaux, "**Three-dimensional imaging improved the laparoscopic performance of inexperienced operators: a prospective trial.**" in *Surgical Endoscopy*, vol. 34, pp. 5083–5091 (2020). [doi.org/10.1007/s00464-019-07308-6]()
+  
+S. Hinds, H.A. Jaeger, R. Burke, B. O'Sullivan, J. Keane, **F. Trauzettel**, B. Marques, S. Cotin, B. Bird, H.O. Leira, E.F. Hofstad, O.V. Solberg, T. Langø, and P. Cantillon-Murphy, **"An open electromagnetic tracking framework applied to targeted liver tumour ablation."** in *Int J Comput Assist Radiol Surg.*, vol. 14, pp. 1475-1484 (2019). [doi.org/10.1007/s11548-019-01983-5]()
+  
+H.A. Jaeger, **F. Trauzettel**, P. Nardelli, F. Daverieux, E.F. Hofstad, H.O. Leira, M.P. Kennedy, T. Langø and P. Cantillon-Murphy, **Peripheral tumour targeting using open-source virtual bronchoscopy with electromagnetic tracking: a multi-user pre-clinical study** in *Minimally Invasive Therapy & Allied Technologies*, vol. 28, pp. 363-372 (2019).  [doi.org/10.1080/13645706.2018.1544911]()
+  
+C. McCarthy, I. Kanterman, **F. Trauzettel**, H.A. Jaeger, A. Goetz, B. Colvard, L. Swanstrom and P. Cantillon-Murphy, **Automated Balloon Control in Resuscitative Endovascular Balloon Occlusion of the Aorta** in *IEEE Transactions on Biomedical Engineering*, vol. 66, pp. 1723-1729 (2019). [doi.org/10.1109/TBME.2018.2878642]()
+  
+H.A. Jaeger, A.M. Franz, K. O’Donoghue, A. Seitel, **F. Trauzettel**, L. Maier-Hein and P. Cantillon-Murphy,  **Anser EMT: the first open-source electromagnetic tracking platform for image-guided interventions.** in *Int J Comput Assist Radiol Surg*, vol. 12, pp. 1059–1067 (2017). [doi.org/10.1007/s11548-017-1568-7]()
