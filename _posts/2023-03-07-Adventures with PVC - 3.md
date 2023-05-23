@@ -125,7 +125,7 @@ Additionally, two buttons were added to send the motor 5000 steps in one directi
 
 The following Arduino Code was used:
 
-```C++
+```cpp
 #include<a4988.h> //A4988 stepper driver library
 //define the which pins on the A4988 are connected to what
 #define MS1PIN 8

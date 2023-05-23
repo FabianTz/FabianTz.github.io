@@ -28,7 +28,7 @@ The e3d v6 hotend (pictured below) was chosen for this experiment because of its
 
 In order to maintain the hotend at the desired temperature, a PID controller was implemented on an [Arduino Mega 2560](https://www.arduino.cc/en/Main/arduinoBoardMega2560), using the following code:
 
-```
+```cpp
 #include <PID_v1.h>   			//PID library
 #include <math.h>     			//Math library
 

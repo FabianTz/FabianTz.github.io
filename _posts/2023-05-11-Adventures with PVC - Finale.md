@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventures in 3D printing PVC - Finale"
-date:   2023-03-07 
+date:   2023-05-11 
 categories: "3D printing"
 ---
 {% include mathjs %}

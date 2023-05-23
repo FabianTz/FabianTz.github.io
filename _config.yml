@@ -24,6 +24,9 @@ github_username:  FabianTz
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+input: GFM
+syntax_highlighter: rouge
 theme: minima
 gems:
   - jekyll-feed
